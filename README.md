@@ -36,7 +36,6 @@ Need Outlast: **https://store.steampowered.com/app/238320/Outlast**
          PlayerControllerClassName=OLGame.OLPlayerController \
          DefaultGameType="OLCustomPlayerModelSDK.OLCustomGame"
 
-
 6. Drop Level_Launcher.bat in **[Outlast Dir]** and open it.
 
 7. Download this model and extract "SurgeonPM" folder in **[Outlast Dir]**/PlayerModels
